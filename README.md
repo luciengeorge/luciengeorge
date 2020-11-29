@@ -24,6 +24,3 @@
 <br />
 
 Hi, I'm **Lucien**, a Full Stack Web Developer from Lebanon 🇱🇧 Currently working for [@lewagon](https://www.lewagon.com)
-
-![Lucien's github stats](https://github-readme-stats.vercel.app/api?username=lucien-george)
-
