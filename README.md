@@ -23,4 +23,5 @@
 
 <br />
 
-Hi, I'm **Lucien**, a Full Stack Web Developer from Lebanon 🇱🇧 Currently working for [@lewagon](https://www.lewagon.com)
+My name is **Lucien**. I am originally from Beirut, Lebanon 🇱🇧
+I am currently working for [@lewagon](https://www.lewagon.com) as a software engineer 👨‍💻
