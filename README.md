@@ -23,9 +23,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lucien-george.lucien-george)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucien-george&locale=en&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" alt="lucien-george" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucien-george&locale=en&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="lucien-george" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucien-george&" alt="lucien-george" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lucien-george&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=1F6FEB&currStreakNum=1F6FEB&dates=1F6FEB&fire=1F6FEB&stroke=1F6FEB" alt="lucien-george" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucien-george&show_icons=true&locale=en&layout=compact&hide_title=true&langs_count=10&hide=html,css,scss,jupyter%20notebook" alt="lucien-george" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucien-george&show_icons=true&locale=en&layout=compact&hide_title=true&langs_count=10&hide=html,css,scss,jupyter%20notebook&theme=github_dark" alt="lucien-george" /></p>
 
