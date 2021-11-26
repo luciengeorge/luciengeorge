@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lucien</h1>
+<h1 align="left">Hi 👋 I'm Lucien</h1>
 
 👨‍💻 All of my projects are available at [https://www.lucien-george.com](https://www.lucien-george.com)
 
