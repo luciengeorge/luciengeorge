@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋 I'm Lucien</h1>
 
-👨‍💻 All of my projects are available at [https://www.lucien-george.com](https://www.lucien-george.com)
+👨‍💻 All of my projects are available at [lucien-george.com](https://www.lucien-george.com)
 
 📫 How to reach me **me@lucien-george.com**
 
-📄 Know about my experiences [https://www.lucien-george.com/experiences](https://www.lucien-george.com/experiences)
+📄 Know about my experiences [lucien-george.com/experiences](https://www.lucien-george.com/experiences)
 
 <h3 align="left">Connect with me 👨‍💻</h3>
 <p align="left">
