@@ -2,7 +2,7 @@
 
 👨‍💻 All of my projects are available at [lucien.dev](https://www.lucien.dev)
 
-📫 How to reach me **me@lucien-george.com**
+📫 How to reach me **lucienkgeorge@gmail.com**
 
 📄 Know about my experiences [lucien.dev/experiences](https://www.lucien.dev/experiences)
 
